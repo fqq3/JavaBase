@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"classpractice"},{"l":"com.corporationname.sum"},{"l":"com.corporationname.techname"},{"l":"comnclass"},{"l":"doubleChromosphere"},{"l":"exception"},{"l":"Interfacepractice"},{"l":"iopractice"},{"l":"junittest"},{"l":"mimicdoublelinkedlist"},{"l":"myreflect"},{"l":"NetWork"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();

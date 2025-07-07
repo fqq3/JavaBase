@@ -1,0 +1,36 @@
+package myexceptions;
+import java.util.InputMismatchException;
+import java.util.Scanner;
+public class Store {
+	Scanner in=new Scanner(System.in);
+	public class Bank{
+		private int  save;
+		private  int withdraw;
+//		public void Bank() {
+//			this.save=0;
+//			this.withdraw=0;
+//		}
+		public void saveMoney(){
+			int a=in.nextInt();
+			this.save=a;
+		}
+		public void drawMoney(){
+			int b=in.nextInt();
+			this.withdraw=b;
+			try {
+	            if (this.save < this.withdraw) {
+	            }
+	        } catch (Throwable e) {
+	            System.out.println(e.toString());//in.next(); // 清除非整数输入
+	        }
+		}
+	}
+	public static void main(String[] args) {
+		Store store=new Store();
+		Bank b1=store.new Bank();
+		b1.saveMoney();
+		b1.drawMoney();
+		
+	}
+
+}

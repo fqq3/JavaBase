@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Algorihm/Algorihm.iml" filepath="$PROJECT_DIR$/src/main/java/Algorihm/Algorihm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Base_Review01/Base_Review01.iml" filepath="$PROJECT_DIR$/src/main/java/Base_Review01/Base_Review01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/JDBCDemo/JDBCDemo.iml" filepath="$PROJECT_DIR$/src/main/java/JDBCDemo/JDBCDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/JDBCdao/JDBCdao.iml" filepath="$PROJECT_DIR$/src/main/java/JDBCdao/JDBCdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/SomeProjects/SomeProjects.iml" filepath="$PROJECT_DIR$/src/main/java/SomeProjects/SomeProjects.iml" />
+    </modules>
+  </component>
+</project>
