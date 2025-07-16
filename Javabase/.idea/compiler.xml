@@ -7,8 +7,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="javabase" />
+        <module name="Javabase (2) (org.example)" />
+        <module name="JDBCDemo" />
+        <module name="Base_Review01" />
+        <module name="SomeProjects" />
+        <module name="Algorihm" />
+        <module name="JDBCdao" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="javabase" target="21" />
+      <module name="Javabase (2) (org.example)" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>

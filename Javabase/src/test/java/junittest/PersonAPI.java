@@ -1,6 +1,6 @@
 package junittest;
 
-import comnclass.Gender;
+//import comnclass.Gender;
 
 /**
  * @Auther: fqq
