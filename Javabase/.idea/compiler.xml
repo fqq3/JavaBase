@@ -15,9 +15,6 @@
         <module name="JDBCdao" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
-      <module name="javabase" target="21" />
-      <module name="Javabase (2) (org.example)" target="21" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
